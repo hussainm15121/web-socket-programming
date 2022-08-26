@@ -19,6 +19,6 @@ To compile the program via command line enter the following:
 To run the programs:
 
 - Run Server:
-    > ./sfts
+    > ./sfts <
 - Run Client:
     > ./sftc
