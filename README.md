@@ -12,13 +12,13 @@ Each of these folders contains the .c file along with a .h header file.
 To compile the program via command line enter the following:
 
 - Compile Server:
-    >> gcc sfts.c h1.h -o sfts
+    > gcc sfts.c h1.h -o sfts
 - Compile Client:
-    >> gcc sftc.c h1.h -o sftc
+    > gcc sftc.c h1.h -o sftc
 
 To run the programs:
 
 - Run Server:
-    >> ./sfts
+    > ./sfts
 - Run Client:
-    << ./sftc
+    > ./sftc
